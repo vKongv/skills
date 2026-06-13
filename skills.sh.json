@@ -1,0 +1,10 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Orchestration",
+      "description": "Delegate technical work while the host agent owns requirements, coordination, and verification.",
+      "skills": ["let-cursor-cook", "orchestrate"]
+    }
+  ]
+}
