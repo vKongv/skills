@@ -4,7 +4,17 @@
     {
       "title": "Orchestration",
       "description": "Delegate technical work while the host agent owns requirements, coordination, and verification.",
-      "skills": ["let-cursor-cook", "orchestrate"]
+      "skills": [
+        "let-cursor-cook",
+        "orchestrate"
+      ]
+    },
+    {
+      "title": "Productivity",
+      "description": "Repeatable personal productivity workflows for claims, documents, and operational admin.",
+      "skills": [
+        "claim-receipt-workflow"
+      ]
     }
   ]
 }
