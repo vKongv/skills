@@ -8,13 +8,6 @@
         "let-cursor-cook",
         "orchestrate"
       ]
-    },
-    {
-      "title": "Productivity",
-      "description": "Repeatable personal productivity workflows for claims, documents, and operational admin.",
-      "skills": [
-        "claim-receipt-workflow"
-      ]
     }
   ]
 }
